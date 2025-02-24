@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI-llumination</title>
 </head>
 <body style="font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; background-color: #f5efe4;">
     <header style="background: linear-gradient(90deg, #5d4b7e, #a084ca); color: white; padding: 20px; display: flex; justify-content: space-between; align-items: center;">
