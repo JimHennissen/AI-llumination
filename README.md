@@ -1,8 +1,5 @@
-To change the font using Google Fonts in your HTML, you can either use the `<link>` method in the `<head>` section of your HTML or the `@import` method directly in your CSS. Both methods will work effectively, but using the `<link>` method is generally recommended because it tends to be faster and doesn't delay loading the CSS until the font is loaded.
 
-Here's how to include the Google Font using the `<link>` method in your HTML document:
-
-```html
+html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -89,6 +86,3 @@ Here's how to include the Google Font using the `<link>` method in your HTML doc
     </main>
 </body>
 </html>
-```
-
-This will load the 'Faculty Glyphic' font and apply it to the entire body of your page, or to specific elements if you adjust the CSS. Let me know if this change reflects accurately on your page or if there are more adjustments to be made!
