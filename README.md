@@ -82,7 +82,7 @@ html
     <main>
         <h2>AI-llumination</h2>
         <h3>Your search for the truth starts here</h3>
-        <img src="freepik__background__25379.png" alt="Spiritual Symbol">
+       <img src="freepik__background__25379.png" alt="Spiritual Symbol">
         <a href="#preorder" class="btn">Pre-order Book</a>
     </main>
 </body>
